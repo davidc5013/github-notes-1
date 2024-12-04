@@ -1,2 +1,2 @@
 # github-notes
-where k gonna take note
+where l gonna take note
