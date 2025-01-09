@@ -5,3 +5,4 @@ Reposition is Repo.
 Reposition is another word for a project and you can have multiple files associated with it which means it creates files when you use it.
 Commit is like you save something like in github. Once you change something there is a commit change to commit your change to be able to save your changes that you did.
 Committing is just like changing something and then save it.
+* If you want your local info go to remote, its git status, git add ., git status, git commit -m " a short description" then git push.
